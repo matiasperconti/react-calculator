@@ -1,0 +1,17 @@
+@import '../utils/variables';
+
+.input{
+    height: 2em;
+    border-radius: 50px;
+    margin-bottom: 14px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-weight: bold;
+    font-size: 30px;
+    background-color: #0a0a23;
+    color: $white;
+    padding: 11px;
+    padding-right: 30px;
+    font-family: 'Roboto Mono', monospace;
+}
